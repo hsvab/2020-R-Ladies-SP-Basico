@@ -1,2 +1,2 @@
 # Apresentações
-Repositório com apresentações diversas
+Repositório com apresentações diversas de pós-graduação
